@@ -1,0 +1,9 @@
+stimtype,SineWave,SineWave,SineWave,SineWave,SineWave
+ordertype,0,0,0,0,0
+duration,60,60,60,60,60
+lum,0.5,0.5,0.5,0.5,0.5
+contrast,0,1,1,1,1
+twoEyes,0,0,0,1,1
+temporalFrequency,0,2,-2,2,-2
+lambda,45,45,45,45,45
+numDeg,1,1,1,1,1

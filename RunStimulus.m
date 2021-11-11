@@ -10,9 +10,9 @@ function RunStimulus
     
     % read in the parameters for the stimulus
     if use_lightcrafter
-        paramFileName = 'sin_sweep_lightcrafter.txt';
+        paramFileName = 'sin_sweep_lightcrafter.csv';
     else
-        paramFileName = 'sin_sweep.txt';
+        paramFileName = 'sin_sweep.csv';
     end
     parameters = GetParamsFromPaths(fullfile(path,paramFileName));
     
